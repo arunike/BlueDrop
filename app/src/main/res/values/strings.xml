@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlueDrop</string>
+    <string name="tips">1. File sender and receiver need to turn on Wifi\n2. File receiver to create a group, file sender to search for the device and click to connect\n3. After a successful connection, the file receiver to start listening, and then file sender to select the files to be sent</string>
+</resources>
